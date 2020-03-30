@@ -39,7 +39,7 @@ public class Main {
 
     public static  void main(String argus[])
     {
-        File datafile = new File("a.txt");
+        File datafile = new File("y30.txt");
         try {
             server_Socket = new ServerSocket(12345);
 //        while(true) {
